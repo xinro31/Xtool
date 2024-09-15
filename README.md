@@ -38,15 +38,3 @@ Python 3+
 
 
 # Awesome People & Credits
-
-https://github.com/AstraaDev
-
-https://github.com/Rdimo
-
-https://github.com/Swag1400
-
-https://github.com/Buntii
-
-https://github.com/zetism
-
-H0LLOW#9910
